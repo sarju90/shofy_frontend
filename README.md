@@ -103,7 +103,7 @@ To get started with Shofy, follow these steps:
 
 ## Server Side Live Link
 
-[Shofy Fashion Server Side Live Link](https://shofy-backend-phi.vercel.app)
+[Shofy Fashion Server Side Live Link](https://sarju-shofy-backend.vercel.app)
 
 ## Client Side Repo
 

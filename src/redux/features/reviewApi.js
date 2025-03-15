@@ -5,7 +5,7 @@ export const reviewApi = apiSlice.injectEndpoints({
   endpoints: (builder) => ({
     addReview: builder.mutation({
       query: (data) => ({
-        url: "https://shofy-backend-phi.vercel.app/api/review/add",
+        url: "https://sarju-shofy-backend.vercel.app/api/review/add",
         method: "POST",
         body: data,
       }),

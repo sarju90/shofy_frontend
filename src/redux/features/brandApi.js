@@ -4,7 +4,7 @@ export const brandApi = apiSlice.injectEndpoints({
   overrideExisting:true,
   endpoints: (builder) => ({
     getActiveBrands: builder.query({
-      query: () => `https://shofy-backend-phi.vercel.app/api/brand/active`
+      query: () => `https://sarju-shofy-backend.vercel.app/api/brand/active`
     }),
   }),
 });
